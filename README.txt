@@ -10,6 +10,6 @@ This repo consists of my notes for 5 consective courses I recommend for beginner
 
 These courses are free on https://www.deeplearning.ai/courses/
 
-These courses were recommended to me by one of my brilliant lecturers Yangchen Pan (https://scholar.google.com/citations?user=4M4pOp4AAAAJ&hl=en) after taking his 
+These courses were recommended to me by one of my brilliant lecturer Yangchen Pan (https://scholar.google.com/citations?user=4M4pOp4AAAAJ&hl=en) after taking his 
 week long course in ML with Python (my notes to that course are also on my github repos page).
 
